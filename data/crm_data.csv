@@ -1,0 +1,101 @@
+company_name,industry,employee_count,annual_revenue,tech_stack,ai_initiatives,decision_maker_title,lead_source,pipeline_stage,last_contact_date,meetings_held,deal_size,expected_close_date
+Innovative Learning Industries,Insurance,120,4635314,Hybrid,None,VP of Technology,LinkedIn,Discovery,2025-02-08,2,42149,2025-05-03
+Finance,Manufacturing,34,39465113,On-Premise,Computer Vision,CIO,Cold Outreach,Discovery,2025-01-21,2,142738,2025-05-05
+Future Soft Corp,Energy,34,4635314,Azure,Chatbots,CTO,Cold Outreach,Discovery,2025-01-13,2,37586,2025-04-11
+Store Partners,Media,34,39465113,AWS,Predictive Maintenance,IT Manager,Content Marketing,Discovery,2025-01-20,1,74519,2025-05-02
+Digital Media,Technology,770,4635314,On-Premise,Predictive Maintenance,IT Manager,Cold Outreach,Initial Contact,2025-02-21,0,41951,2025-06-02
+Future Systems,Insurance,770,505555070,Hybrid,Recommendation Systems,Head of Digital Transformation,Webinar,Discovery,2025-02-19,1,1474323,2025-04-29
+Health Corp,Logistics,120,4635314,On-Premise,None,Director of Innovation,Conference,Discovery,2025-03-07,1,35374,2025-04-18
+Pro Insight Labs,Retail,2367,4635314,AWS,Data Analytics,VP of Technology,LinkedIn,Proposal,2025-02-22,2,42126,2025-04-09
+Digital Health Labs,Insurance,120,4635314,Legacy Systems,Data Analytics,CTO,Cold Outreach,Discovery,2025-02-12,2,25788,2025-05-01
+Digital Finance Group,Energy,2367,505555070,Legacy Systems,Predictive Maintenance,IT Manager,Content Marketing,Initial Contact,2025-01-29,1,1816128,2025-05-25
+Media Industries,Energy,770,101939266,On-Premise,Recommendation Systems,Director of Innovation,Webinar,Initial Contact,2025-02-18,5,209379,2025-05-19
+Modern Finance,Media,120,4635314,Google Cloud,Computer Vision,IT Manager,Conference,Closed Won,2025-02-19,2,45053,2025-03-12
+Health Group,Technology,34,39465113,On-Premise,Data Analytics,CTO,Referral,Discovery,2025-03-06,1,59446,2025-05-01
+Media,Manufacturing,120,101939266,Azure,Computer Vision,CEO,Referral,Proposal,2025-03-11,0,281994,2025-04-03
+Digital Systems,Media,120,39465113,Azure,None,CTO,Conference,Closed Won,2025-03-07,0,148723,2025-03-12
+Innovative Finance Solutions,Media,120,39465113,Legacy Systems,Data Analytics,Head of Digital Transformation,Webinar,Initial Contact,2025-01-30,1,101356,2025-05-20
+Global Health Industries,Retail,120,4635314,Google Cloud,Data Analytics,CTO,Content Marketing,Closed Won,2025-02-28,0,30789,2025-03-12
+Next Soft,Education,34,4635314,AWS,Process Automation,CTO,Conference,Proposal,2025-02-14,0,21120,2025-03-29
+Learning,Technology,120,101939266,Azure,Data Analytics,Head of Digital Transformation,LinkedIn,Initial Contact,2025-01-25,1,456172,2025-06-04
+Tech Soft,Healthcare,120,505555070,Legacy Systems,Exploratory,VP of Technology,LinkedIn,Discovery,2025-02-06,0,1580730,2025-05-01
+Pro Finance Inc,Media,2367,39465113,Hybrid,Chatbots,CTO,Referral,Negotiation,2025-01-22,3,132870,2025-03-22
+Future Finance,Telecommunications,770,4635314,Legacy Systems,Exploratory,Head of Digital Transformation,Cold Outreach,Discovery,2025-02-26,0,22336,2025-04-19
+Next Learning LLC,Education,770,4635314,Azure,Recommendation Systems,Director of Innovation,Content Marketing,Closed Lost,2025-02-14,2,25373,2025-03-12
+Global Insight,Healthcare,34,101939266,Azure,Recommendation Systems,CEO,Referral,Discovery,2025-01-26,1,479923,2025-04-13
+Next Store Corp,Telecommunications,34,101939266,Legacy Systems,Computer Vision,CEO,Cold Outreach,Proposal,2025-02-13,5,431173,2025-04-09
+Modern Learning,Technology,34,101939266,AWS,Exploratory,CTO,Cold Outreach,Discovery,2025-03-03,0,471345,2025-04-30
+Advance Data LLC,Finance,770,101939266,On-Premise,Exploratory,VP of Technology,Partner,Negotiation,2025-02-14,1,182265,2025-03-21
+Innovative Health,Telecommunications,34,39465113,Azure,Exploratory,VP of Technology,LinkedIn,Proposal,2025-01-14,4,93872,2025-04-04
+Global Health,Logistics,120,4635314,Legacy Systems,None,Director of Innovation,Webinar,Initial Contact,2025-01-24,3,33429,2025-05-21
+Insight,Education,34,4635314,Legacy Systems,Data Analytics,CTO,Website,Initial Contact,2025-01-14,3,47429,2025-05-16
+Finance Labs,Telecommunications,770,101939266,Google Cloud,Chatbots,CEO,Webinar,Initial Contact,2025-02-18,1,304782,2025-05-12
+Learning,Real Estate,120,39465113,On-Premise,Computer Vision,VP of Technology,Website,Initial Contact,2025-01-24,0,79486,2025-05-17
+Insight Partners,Finance,120,4635314,Hybrid,Exploratory,CTO,Conference,Initial Contact,2025-01-15,2,26371,2025-05-28
+Modern Soft,Energy,120,4635314,AWS,Exploratory,IT Manager,LinkedIn,Proposal,2025-02-10,4,26359,2025-04-05
+Digital Solutions,Energy,34,39465113,Hybrid,Process Automation,VP of Technology,Cold Outreach,Discovery,2025-01-28,2,114435,2025-04-12
+Learning,Logistics,120,4635314,On-Premise,Computer Vision,Head of Digital Transformation,Content Marketing,Proposal,2025-01-23,2,27863,2025-04-05
+Future Health,Telecommunications,120,4635314,On-Premise,Exploratory,IT Manager,Website,Closed Won,2025-02-23,1,23228,2025-03-12
+Tech Finance Group,Telecommunications,34,39465113,On-Premise,Computer Vision,VP of Technology,Webinar,Proposal,2025-02-14,3,70103,2025-03-26
+Modern Insight,Retail,2367,39465113,Hybrid,Data Analytics,CEO,Cold Outreach,Proposal,2025-02-04,0,114772,2025-04-10
+Tech Health,Telecommunications,120,39465113,On-Premise,Process Automation,CIO,Website,Negotiation,2025-03-11,1,64382,2025-03-23
+Smart Soft Partners,Insurance,120,4635314,Legacy Systems,Computer Vision,IT Manager,Website,Discovery,2025-03-04,1,38755,2025-05-07
+Smart Systems,Manufacturing,770,101939266,Hybrid,Chatbots,Director of Innovation,Partner,Initial Contact,2025-01-22,2,284828,2025-05-22
+Pro Media,Real Estate,120,4635314,On-Premise,Chatbots,Director of Innovation,Website,Initial Contact,2025-02-05,1,40609,2025-06-06
+Advance Insight Labs,Retail,34,4635314,Legacy Systems,Recommendation Systems,CEO,Content Marketing,Discovery,2025-01-19,0,35770,2025-04-29
+Next Soft LLC,Technology,34,101939266,Google Cloud,Process Automation,VP of Technology,LinkedIn,Discovery,2025-02-25,2,297550,2025-05-02
+Advance Soft,Retail,120,39465113,On-Premise,Process Automation,CTO,Content Marketing,Initial Contact,2025-01-24,1,89666,2025-06-03
+Innovative Soft Industries,Insurance,34,101939266,Hybrid,Recommendation Systems,VP of Technology,Referral,Closed Won,2025-01-15,2,487827,2025-03-12
+Data Partners,Technology,120,39465113,Azure,Computer Vision,CEO,Cold Outreach,Negotiation,2025-02-18,0,149097,2025-03-21
+Finance Inc,Real Estate,770,39465113,On-Premise,Process Automation,Director of Innovation,LinkedIn,Initial Contact,2025-02-26,1,121315,2025-05-17
+Tech Finance,Insurance,120,4635314,Azure,Chatbots,VP of Technology,Partner,Discovery,2025-02-14,2,32298,2025-04-30
+Soft,Healthcare,34,4635314,Legacy Systems,Chatbots,Director of Innovation,LinkedIn,Initial Contact,2025-02-12,0,47901,2025-05-16
+Innovative Learning Solutions,Manufacturing,120,4635314,Google Cloud,Exploratory,IT Manager,LinkedIn,Discovery,2025-02-17,1,34153,2025-05-01
+Future Soft Industries,Real Estate,2367,4635314,AWS,Data Analytics,CTO,Webinar,Discovery,2025-02-26,0,31111,2025-05-04
+Next Soft,Telecommunications,34,505555070,Google Cloud,Process Automation,IT Manager,LinkedIn,Negotiation,2025-02-16,0,1789349,2025-03-13
+Innovative Insight Partners,Healthcare,120,4635314,On-Premise,Computer Vision,Director of Innovation,Partner,Discovery,2025-03-10,5,32999,2025-04-27
+Next Soft Corp,Logistics,34,101939266,Azure,Recommendation Systems,Director of Innovation,Content Marketing,Negotiation,2025-01-26,1,205318,2025-03-25
+Health,Real Estate,120,39465113,Azure,Recommendation Systems,CIO,LinkedIn,Closed Lost,2025-02-14,3,50814,2025-03-12
+Smart Finance Group,Logistics,120,101939266,Hybrid,Computer Vision,CIO,Conference,Initial Contact,2025-02-26,1,226077,2025-05-21
+Learning Labs,Technology,34,39465113,Azure,None,IT Manager,Cold Outreach,Negotiation,2025-01-12,2,140474,2025-03-18
+Modern Insight,Healthcare,120,39465113,Hybrid,Predictive Maintenance,Head of Digital Transformation,LinkedIn,Proposal,2025-01-15,3,52443,2025-04-04
+Innovative Soft Technologies,Manufacturing,120,39465113,Legacy Systems,Data Analytics,IT Manager,Cold Outreach,Discovery,2025-01-20,2,125993,2025-05-08
+Future Finance LLC,Telecommunications,120,4635314,AWS,Recommendation Systems,CIO,Conference,Discovery,2025-03-05,1,30380,2025-04-28
+Modern Data,Telecommunications,34,101939266,On-Premise,Process Automation,Director of Innovation,Conference,Negotiation,2025-03-09,1,485463,2025-03-17
+Pro Health LLC,Insurance,34,4635314,Hybrid,Data Analytics,CEO,Cold Outreach,Proposal,2025-01-24,1,47581,2025-03-26
+Pro Learning,Telecommunications,34,4635314,AWS,Process Automation,IT Manager,Website,Negotiation,2025-02-17,4,31473,2025-03-19
+Pro Learning Group,Media,34,39465113,Azure,None,Director of Innovation,Referral,Closed Won,2025-01-25,3,67368,2025-03-12
+Advance Data Labs,Retail,120,4635314,Azure,Chatbots,CEO,Webinar,Proposal,2025-01-28,4,35328,2025-03-26
+Solutions,Finance,120,505555070,AWS,Data Analytics,CEO,Website,Closed Lost,2025-01-24,0,688014,2025-03-12
+Tech Finance Group,Manufacturing,34,505555070,Azure,Exploratory,CIO,Website,Proposal,2025-01-26,2,591751,2025-03-29
+Next Solutions,Healthcare,34,505555070,Legacy Systems,Recommendation Systems,IT Manager,Content Marketing,Proposal,2025-02-22,4,730203,2025-04-03
+Media,Media,34,4635314,Legacy Systems,Data Analytics,VP of Technology,Webinar,Proposal,2025-01-13,0,47306,2025-03-26
+Innovative Finance,Manufacturing,120,4635314,AWS,Data Analytics,CTO,Webinar,Initial Contact,2025-02-02,0,39915,2025-05-30
+Future Store,Healthcare,770,505555070,Hybrid,Data Analytics,CIO,Website,Proposal,2025-02-05,2,1195275,2025-03-31
+Global Learning,Education,34,39465113,Hybrid,Predictive Maintenance,CIO,LinkedIn,Discovery,2025-01-20,2,87219,2025-05-02
+Systems,Education,2367,505555070,AWS,Data Analytics,VP of Technology,Content Marketing,Discovery,2025-02-25,3,1760527,2025-05-08
+Pro Insight Inc,Logistics,34,505555070,Hybrid,Process Automation,CTO,Content Marketing,Closed Won,2025-02-15,0,695716,2025-03-12
+Modern Finance Partners,Manufacturing,2367,101939266,Hybrid,Chatbots,Director of Innovation,Conference,Discovery,2025-01-16,3,210279,2025-05-09
+Smart Systems,Education,120,4635314,Legacy Systems,None,Head of Digital Transformation,Partner,Discovery,2025-02-03,1,40260,2025-04-18
+Digital Data,Healthcare,34,4635314,Hybrid,Computer Vision,IT Manager,Webinar,Proposal,2025-02-12,0,25959,2025-03-26
+Next Health,Logistics,120,101939266,Google Cloud,Data Analytics,Head of Digital Transformation,Website,Negotiation,2025-03-02,0,150126,2025-03-19
+Learning Industries,Telecommunications,120,4635314,On-Premise,Recommendation Systems,Director of Innovation,Conference,Discovery,2025-02-01,3,39561,2025-04-11
+Digital Learning Corp,Healthcare,120,4635314,Azure,Data Analytics,CIO,Cold Outreach,Negotiation,2025-01-14,2,47632,2025-03-25
+Data,Logistics,120,39465113,Google Cloud,Recommendation Systems,CTO,Referral,Negotiation,2025-02-23,2,115310,2025-03-19
+Digital Learning,Manufacturing,120,505555070,Hybrid,Process Automation,CIO,Partner,Initial Contact,2025-02-01,1,1658521,2025-05-29
+Modern Insight Group,Media,120,39465113,Legacy Systems,Recommendation Systems,CEO,Partner,Initial Contact,2025-02-18,3,105176,2025-06-06
+Future Soft,Insurance,120,39465113,AWS,Exploratory,CIO,Partner,Proposal,2025-02-14,1,136066,2025-04-02
+Soft,Telecommunications,34,4635314,Hybrid,Computer Vision,CIO,Content Marketing,Discovery,2025-01-27,3,27196,2025-04-29
+Future Soft,Real Estate,120,39465113,Legacy Systems,Chatbots,Director of Innovation,Cold Outreach,Initial Contact,2025-02-15,1,94327,2025-06-09
+Data,Media,34,505555070,On-Premise,Recommendation Systems,Director of Innovation,Partner,Proposal,2025-02-23,1,962120,2025-04-10
+Advance Data Solutions,Technology,770,4635314,Hybrid,Recommendation Systems,Director of Innovation,Cold Outreach,Discovery,2025-02-27,1,23797,2025-05-10
+Modern Solutions,Healthcare,120,39465113,AWS,Chatbots,Head of Digital Transformation,LinkedIn,Discovery,2025-02-20,1,97882,2025-05-09
+Advance Data Solutions,Technology,2367,101939266,Legacy Systems,Computer Vision,CEO,Partner,Discovery,2025-02-15,2,294790,2025-04-27
+Soft Partners,Media,120,101939266,Legacy Systems,Data Analytics,Director of Innovation,Referral,Proposal,2025-03-08,2,184560,2025-04-07
+Pro Solutions,Logistics,770,39465113,Legacy Systems,Recommendation Systems,CTO,Cold Outreach,Discovery,2025-03-02,1,126589,2025-05-09
+Digital Systems Industries,Real Estate,770,101939266,On-Premise,Chatbots,Head of Digital Transformation,Cold Outreach,Proposal,2025-03-09,3,434260,2025-04-08
+Smart Store,Telecommunications,34,4635314,Hybrid,Exploratory,VP of Technology,Referral,Initial Contact,2025-01-30,1,23476,2025-05-26
+Media,Telecommunications,120,4635314,On-Premise,Exploratory,CTO,Partner,Proposal,2025-01-26,2,23417,2025-04-02
+Next Health,Telecommunications,120,101939266,Azure,Process Automation,IT Manager,Referral,Discovery,2025-02-22,4,282717,2025-04-29
+Future Systems Inc,Real Estate,770,101939266,Azure,Chatbots,IT Manager,Cold Outreach,Closed Won,2025-01-24,2,328595,2025-03-12
+Advance Store Solutions,Finance,120,101939266,Hybrid,Process Automation,CTO,Referral,Discovery,2025-02-04,0,274085,2025-04-28
