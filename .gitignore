@@ -11,3 +11,5 @@ wheels/
 
 icp_definition.md
 gen_data.py
+
+.env
